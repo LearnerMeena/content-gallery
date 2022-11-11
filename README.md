@@ -30,7 +30,7 @@ You can use images, videos, or audio files. Images are probably the easiest choi
 
 Whichever content you choose, be sure to find at least 6 items. That way, you'll have enough for a meaningful gallery.
 
-For images or audio, download the files and then upload them to the project replit. For video, copy the iframe embed snippets that you'll need.
+For images or audio, download the files and add them to the project, either at the top level or in a folder. For video, copy the iframe embed snippets that you'll need.
 
 ### Add the content as HTML elements
 
